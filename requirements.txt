@@ -1,0 +1,4 @@
+Django==1.8.5
+mysql-python==1.2.5
+djangorestframework==3.2.4
+rest-framework-generic-relations==0.1.0
